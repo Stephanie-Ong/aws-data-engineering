@@ -11,31 +11,31 @@
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
     - [Project Structure](#project-structure)
-  - [Chapter 1: Getting Started with Spark](#chapter-1-getting-started-with-spark)
+  - [Getting Started with Spark](#getting-started-with-spark)
     - [Script 01: Your First Spark Session](#script-01-your-first-spark-session)
-  - [Chapter 2: Loading Data from Files](#chapter-2-loading-data-from-files)
+  - [Loading Data from Files](#loading-data-from-files)
     - [Script 02: Reading CSV Files](#script-02-reading-csv-files)
     - [Script 03: JSON and Parquet Files](#script-03-json-and-parquet-files)
     - [Script 04: Creating DataFrames from Python](#script-04-creating-dataframes-from-python)
-  - [Chapter 3: Understanding DataFrame Schemas](#chapter-3-understanding-dataframe-schemas)
+  - [Understanding DataFrame Schemas](#understanding-dataframe-schemas)
     - [Script 05: Schema Management](#script-05-schema-management)
-  - [Chapter 4: Essential DataFrame Operations](#chapter-4-essential-dataframe-operations)
+  - [Essential DataFrame Operations](#essential-dataframe-operations)
     - [Script 06: Basic DataFrame Operations](#script-06-basic-dataframe-operations)
-  - [Chapter 5: Data Cleaning and Quality](#chapter-5-data-cleaning-and-quality)
+  - [Data Cleaning and Quality](#data-cleaning-and-quality)
     - [Script 07: Data Cleaning and Exploration](#script-07-data-cleaning-and-exploration)
-  - [Chapter 6: String and Character Manipulation](#chapter-6-string-and-character-manipulation)
+  - [String and Character Manipulation](#string-and-character-manipulation)
     - [Core String Functions](#core-string-functions)
-  - [Chapter 7: Conditionals and Row/Column Operations](#chapter-7-conditionals-and-rowcolumn-operations)
+  - [Conditionals and Row/Column Operations](#conditionals-and-rowcolumn-operations)
     - [Basic and Complex Conditionals](#basic-and-complex-conditionals)
-  - [Chapter 8: Data Sorting and Ranking](#chapter-8-data-sorting-and-ranking)
+  - [Data Sorting and Ranking](#data-sorting-and-ranking)
     - [Sorting and Ranking Operations](#sorting-and-ranking-operations)
-  - [Chapter 9: Data Frequency, Counts and Unique Operations](#chapter-9-data-frequency-counts-and-unique-operations)
+  - [Data Frequency, Counts and Unique Operations](#data-frequency-counts-and-unique-operations)
     - [Frequency Analysis and Counting](#frequency-analysis-and-counting)
-  - [Chapter 10: Creating Unique Identifiers](#chapter-10-creating-unique-identifiers)
+  - [Creating Unique Identifiers](#creating-unique-identifiers)
     - [Script 08: Indexing and Unique Identifiers](#script-08-indexing-and-unique-identifiers)
-  - [Chapter 11: Complete Banking Analysis Lab](#chapter-11-complete-banking-analysis-lab)
+  - [Complete Banking Analysis Lab](#complete-banking-analysis-lab)
     - [Script 09: Comprehensive Banking Analysis](#script-09-comprehensive-banking-analysis)
-  - [Chapter 12: Working with Cloud Storage (S3)](#chapter-12-working-with-cloud-storage-s3)
+  - [Working with Cloud Storage (S3)](#working-with-cloud-storage-s3)
     - [Script 10: S3 Parquet Reader](#script-10-s3-parquet-reader)
   - [Common Troubleshooting](#common-troubleshooting)
   - [Best Practices Summary](#best-practices-summary)
@@ -132,7 +132,7 @@ pyspark-tutorial/
 
 ---
 
-## Chapter 1: Getting Started with Spark
+## Getting Started with Spark
 
 ### Script 01: Your First Spark Session
 
@@ -174,7 +174,7 @@ if __name__ == "__main__":
 
 ---
 
-## Chapter 2: Loading Data from Files
+## Loading Data from Files
 
 ### Script 02: Reading CSV Files
 
@@ -408,7 +408,7 @@ if __name__ == "__main__":
 
 ---
 
-## Chapter 3: Understanding DataFrame Schemas
+## Understanding DataFrame Schemas
 
 ### Script 05: Schema Management
 
@@ -543,7 +543,7 @@ if __name__ == "__main__":
 
 ---
 
-## Chapter 4: Essential DataFrame Operations
+## Essential DataFrame Operations
 
 ### Script 06: Basic DataFrame Operations
 
@@ -689,7 +689,7 @@ if __name__ == "__main__":
 
 ---
 
-## Chapter 5: Data Cleaning and Quality
+## Data Cleaning and Quality
 
 ### Script 07: Data Cleaning and Exploration
 
@@ -842,7 +842,7 @@ if __name__ == "__main__":
 
 ---
 
-## Chapter 6: String and Character Manipulation
+## String and Character Manipulation
 
 ### Core String Functions
 
@@ -934,7 +934,7 @@ spark.stop()
 
 ---
 
-## Chapter 7: Conditionals and Row/Column Operations
+## Conditionals and Row/Column Operations
 
 ### Basic and Complex Conditionals
 
@@ -1033,7 +1033,7 @@ spark.stop()
 
 ---
 
-## Chapter 8: Data Sorting and Ranking
+## Data Sorting and Ranking
 
 ### Sorting and Ranking Operations
 
@@ -1136,7 +1136,7 @@ spark.stop()
 
 ---
 
-## Chapter 9: Data Frequency, Counts and Unique Operations
+## Data Frequency, Counts and Unique Operations
 
 ### Frequency Analysis and Counting
 
@@ -1262,7 +1262,7 @@ spark.stop()
 
 ---
 
-## Chapter 10: Creating Unique Identifiers
+## Creating Unique Identifiers
 
 ### Script 08: Indexing and Unique Identifiers
 
@@ -1439,7 +1439,7 @@ if __name__ == "__main__":
 
 ---
 
-## Chapter 11: Complete Banking Analysis Lab
+## Complete Banking Analysis Lab
 
 ### Script 09: Comprehensive Banking Analysis
 
@@ -1746,7 +1746,7 @@ if __name__ == "__main__":
 ```
 ---
 
-## Chapter 12: Working with Cloud Storage (S3)
+## Working with Cloud Storage (S3)
 
 In real-world banking and financial systems, data rarely lives only on your laptop. Most institutions store customer records, transactions, and processed analytics securely in **cloud storage**. Amazon S3 (Simple Storage Service) is one of the most widely used platforms for this. With PySpark, you can directly **read and write huge datasets to S3** without downloading them locally. This means you can run analysis on terabytes of data stored in the cloud, scale out across multiple machines, and keep everything consistent with production data pipelines.
 

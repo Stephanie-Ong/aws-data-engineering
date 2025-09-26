@@ -48,3 +48,9 @@ celerybeat-schedule
 *.swp
 downloaded_parquet/
 whiteboard/
+
+tutorials/lab-05-pyspark-conditionals-operations.md
+tutorials/lab-06-pyspark-sorting-ranking.md
+tutorials/lab-08-pyspark-advanced-aggregations.md
+tutorials/lab-07-pyspark-frequency-counts-unique.md
+tutorials/lab-03-pyspark-dataframes.md
