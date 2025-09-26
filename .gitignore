@@ -54,3 +54,5 @@ tutorials/lab-06-pyspark-sorting-ranking.md
 tutorials/lab-08-pyspark-advanced-aggregations.md
 tutorials/lab-07-pyspark-frequency-counts-unique.md
 tutorials/lab-03-pyspark-dataframes.md
+banking-analytics-dataset-overview.md
+tutorials/lab-04-pyspark-string-manipulation.md
