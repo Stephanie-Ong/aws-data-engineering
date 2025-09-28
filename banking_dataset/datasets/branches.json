@@ -1,0 +1,50 @@
+[
+	{
+		"branch_id": "BR001",
+		"branch_name": "Josephchester Branch",
+		"address": "19524 Chad Square",
+		"city": "Garciamouth",
+		"state": "NH",
+		"zip_code": "28958",
+		"region": "Southwest",
+		"branch_type": "Limited Service",
+		"open_date": "2020-06-24",
+		"manager_name": "Shannon Clark",
+		"phone": "001-909-613-9460x165",
+		"total_deposits": 85700045,
+		"total_loans": 46033947,
+		"employee_count": 10
+	},
+	{
+		"branch_id": "BR002",
+		"branch_name": "Lake Nathanmouth Branch",
+		"address": "2358 Murphy Shores",
+		"city": "Lake Emma",
+		"state": "MO",
+		"zip_code": "71750",
+		"region": "Northeast",
+		"branch_type": "Limited Service",
+		"open_date": "2024-07-16",
+		"manager_name": "Cheryl Hopkins",
+		"phone": "7355324760",
+		"total_deposits": 37529993,
+		"total_loans": 16208579,
+		"employee_count": 11
+	},
+	{
+		"branch_id": "BR003",
+		"branch_name": "Jeffreyview Branch",
+		"address": "293 Rodgers Causeway Apt. 487",
+		"city": "Heatherchester",
+		"state": "AR",
+		"zip_code": "41898",
+		"region": "Midwest",
+		"branch_type": "ATM Only",
+		"open_date": "2024-01-23",
+		"manager_name": "Maria Simmons",
+		"phone": "(807)245-6526",
+		"total_deposits": 77503934,
+		"total_loans": 13010142,
+		"employee_count": 8
+	}
+]
