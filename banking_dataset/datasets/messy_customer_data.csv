@@ -1,0 +1,5 @@
+customer_id,first_name,last_name,email
+CUST001,  John  ,Smith   , john.smith@email.com  
+CUST002, Sarah,Johnson  ,sarah.johnson@bank.com
+CUST003,Mike   , Wilson,   mike.wilson@company.org  
+CUST004,  Lisa  ,  Brown  ,lisa.brown@service.net   

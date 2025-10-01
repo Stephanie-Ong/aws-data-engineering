@@ -1,0 +1,4 @@
+customer_id,full_name,email,segment,city
+CUST001,JOHN SMITH,JOHN.SMITH@EMAIL.COM,PREMIUM,NEW YORK
+CUST002,sarah johnson,Sarah.Johnson@Email.Com,standard,los angeles
+CUST003,Mike WILSON,mike.WILSON@service.NET,Premium,CHICAGO

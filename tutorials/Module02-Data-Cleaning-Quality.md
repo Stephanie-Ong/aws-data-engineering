@@ -390,8 +390,6 @@ smart_filled = null_df.withColumn("estimated_income",
 
 ------
 
-
-
 ## 3. Duplicate Detection and Removal
 
 ### 3.1 Understanding Duplicates in Banking Data
