@@ -1,0 +1,6 @@
+customer_id,first_name,last_name,email,income,credit_score
+CUST001,John,Smith,john@email.com,125000,750
+CUST002,Sarah,Johnson,,,720
+CUST003,Mike,Wilson,mike@email.com,95000,
+CUST004,Lisa,Brown,lisa@email.com,85000,680
+CUST005,,Davis,davis@email.com,75000,700
