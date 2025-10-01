@@ -326,7 +326,7 @@ complete_data = null_df.dropna()
 essential_data = null_df.dropna(subset=["customer_id", "email"])
 
 # Remove rows with nulls in multiple specified columns
-contact_data = null_df.dropna(subset=["email", "annual_income"])
+contact_data = null_df.dropna(subset=["email", "income"])
 ```
 
 **When to Use dropna():**
