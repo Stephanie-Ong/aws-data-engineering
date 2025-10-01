@@ -1,4 +1,4 @@
-customer_id,annual_income,credit_score,accounts_count,employment_status,segment,total_balance,years_customer,status,satisfaction_score
+customer_id,annual_income,credit_score,years_with_bank,employment_status,current_segment,total_balance,monthly_transactions,account_status,relationship_rating
 CUST001,125000,750,3,Employed,Premium,85000,25,Active,4.2
 CUST002,75000,680,1,Self-Employed,Standard,45000,15,Active,3.8
 CUST003,200000,800,8,Employed,VIP,150000,45,Active,4.9
