@@ -1,0 +1,11 @@
+transaction_id,customer_id,transaction_date,amount,transaction_type,account_type,channel
+TXN001,CUST001,2024-01-15,2500.0,Deposit,Checking,Branch
+TXN002,CUST001,2024-01-20,-850.0,Withdrawal,Checking,ATM
+TXN003,CUST001,2024-01-25,5000.0,Transfer,Savings,Online
+TXN004,CUST002,2024-01-16,-1200.0,Purchase,Credit,Card
+TXN005,CUST002,2024-01-18,3200.0,Deposit,Checking,Wire
+TXN006,CUST003,2024-01-17,15000.0,Investment,Investment,Online
+TXN007,CUST003,2024-01-22,-500.0,Fee,Checking,System
+TXN008,CUST004,2024-01-19,-45.0,Purchase,Checking,Card
+TXN009,CUST005,2024-01-21,1500.0,Deposit,Savings,Branch
+TXN010,CUST006,2024-01-23,25000.0,Investment,Investment,Online
